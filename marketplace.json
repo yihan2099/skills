@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "skills",
+      "version": "1.0.0",
+      "description": "Personal AI agent skills — batch project maintenance, learning strategy, and workflow optimization.",
+      "repository": "yihan2099/skills"
+    }
+  ]
+}
